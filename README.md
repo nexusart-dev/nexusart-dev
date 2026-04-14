@@ -2,10 +2,20 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Galih+Wicaksana;Frontend+%7C+Salesforce+Developer;Building+Scalable+%26+Beautiful+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Galih+Wicaksana;Frontend+Developer+%7C+Salesforce+Developer;Building+Scalable+%26+Beautiful+Apps" />
 </p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain Effect" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 **NEURAL PATHWAY VISUALIZATION**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
 </div>
 
 ---
@@ -212,14 +222,6 @@ Management Service Plan Performance is a dashboard CSM tool for auditing and imp
 </td>
 </tr>
 </table>
-
-### 🐍 **NEURAL PATHWAY VISUALIZATION**
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
 
 <div align="center">
 
